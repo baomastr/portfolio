@@ -3,7 +3,7 @@ Links:
 <br/>
 Main index : http://baomastr.github.io/portfolio/
 
-Examples of pages in porfolio:
+Examples of pages in portfolio:
 <br/>
 1. 
 <a href="http://baomastr.github.io/example/">Пример вёрстки адаптивной страницы</a>
