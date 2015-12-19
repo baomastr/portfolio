@@ -11,4 +11,6 @@ Examples of pages in portfolio:
 2. 
 <a href="http://baomastr.github.io/Page-for-PC/">Пример вёрстки главной страницы</a> (Минимальная ширина 1024px)
 <br/>
-3. <a href="http://www.kokuplacis.lv/">Коммерческий проект</a> (Адаптивная вёрстка)
+3. <a href="http://baomastr.github.io/artSound/" target="_blank">Пример</a> вёрстки коммерческого проекта (лендинг, адаптивная)
+4. <p><a href="http://www.kokuplacis.lv/">Коммерческий проект</a> (Адаптивная вёрстка)</p>
+
