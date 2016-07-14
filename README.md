@@ -6,7 +6,9 @@ Main index : http://baomastr.github.io/portfolio/
 Examples of pages in portfolio:
 <br/>
 1. 
-<a href="http://baomastr.github.io/example/">Пример вёрстки адаптивной страницы</a>
+<a href="http://baomastr.github.io/adaptive-page-example/">Пример вёрстки адаптивной страницы</a>
+<br/>
+<a href="http://baomastr.github.io/example/">Пример вёрстки адаптивной home peage</a>
 <br/>
 2. 
 <a href="http://baomastr.github.io/Page-for-PC/">Пример вёрстки главной страницы</a> (Минимальная ширина 1024px)
