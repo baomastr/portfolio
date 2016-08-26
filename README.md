@@ -6,7 +6,8 @@ Main index : http://baomastr.github.io/portfolio/
 Examples of pages in portfolio:
 <br/>
 
-<a href="https://baomastr.github.io/www/" target="_blank" class="btn">Пример Адаптивного лид-магнита</a> (20/08/16)<br/>
+<!--<a href="https://baomastr.github.io/www/" target="_blank" class="btn">Пример Адаптивного лид-магнита</a>-->
+<a href="https://lp.raibf.com" target="_blank" class="btn">Пример</a> Адаптивного лид-магнита (20/08/16)<br/>
 <a href="https://baomastr.github.io/blog-page/" target="_blank" class="btn">Пример</a> Адаптивной страницы блога<br/>
 <a href="https://baomastr.github.io/mail/" target="_blank" class="btn">Пример</a> вёрстки e-mail письма<br/>
 <a href="http://baomastr.github.io/adaptive-page-example/">Пример</a> вёрстки адаптивной страницы<br/>
